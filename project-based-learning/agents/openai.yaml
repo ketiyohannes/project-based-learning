@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Based Learning"
+  short_description: "Learn a stack by building your own project"
+  default_prompt: "Use $project-based-learning to help me specify a project, assess my experience, and teach me the stack as I build it myself."
